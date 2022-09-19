@@ -4,7 +4,7 @@
 ### Mission
 <hr>
 
-Heala is a platform that bridges the gap between the average person and healthcare. We bring health services to users in the comfort of their home by providing them access to Doctors, Hospitals and Diagnostic Centres all from their device.
+Heala is a digital platform that allows stakeholders in the Healthcare ecosystem to interact and exchange value. These interactions are between end users (Patients) and Healthcare Providers (Hospitals, Dental Clinics, Optical Clinics), HMOs, Diagnostic centers, and Pharmacies.
 
 ### Principles
 <hr>
