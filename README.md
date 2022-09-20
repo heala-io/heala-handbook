@@ -67,4 +67,5 @@ We have three primary branch categories
     <li>Request reviews and get at least one approval</li>
     <li>Discuss on the PR and make changes if necessary</li>
     <li>Merge to <strong>staging</strong> if you get at least one approval </li>
+    <li>After merging to <strong>dev</strong>, delete the branch the PR came from to prevent redundancy branches.</li>
 </ol>
