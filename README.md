@@ -86,7 +86,7 @@ We follow the Scrum framework for our product development process. This includes
 
  - ### J - Communication Gudelines
 
-    We use Slack to ensure effective and professional communication within the company. By following our communication guidelines, team members can effectively collaborate and stay informed about company updates and projects. [Learn More](communication.md)
+    We use Slack to ensure effective and professional communication within the company. By following our communication guidelines, team members can effectively collaborate and stay informed about company updates and projects. [Learn More](guidelines/communication.md)
 
 <hr>
 
