@@ -3,17 +3,17 @@
 Welcome to the HEALA Tech team! As a member of this team, you will be responsible for contributing to the development and maintenance of our various technology products. In this handbook, you will find all the guidelines and standards that you need to follow as a member of this team including; 
 
 <ol>
-    <li>Organizational Structure/Organogram</li>
-    <li>Scrum Guidelines</li>
-    <li>Sprint Review & Planning Guidelines</li>
-    <li>Company-wide General Meeting Guidelines</li>
-    <li>Team Meeting Guidelines</li>
-    <li>Code Review Guidelines</li>
-    <li>Project Management Guidelines</li>
-    <li>Codebase Guidelines & Standards</li>
-    <li>Virtual Meeting Guidelines</li>
-    <li>KPI Review Guidelines</li>
-    <li>Communication Gudelines</li>
+    <li><a href="#1-organizational-structure">Organizational Structure/Organogram</a></li>
+    <li><a href="#2-scrum-guidelines">Scrum Guidelines</a></li>
+    <li><a href="#3-sprint-review--planning-guidelines">Sprint Review & Planning Guidelines</a></li>
+    <li><a href="#4-company-wide-general-meeting-guidelines">Company-wide General Meeting Guidelines</a></li>
+    <li><a href="#5-team-meeting-guidelines">Team Meeting Guidelines</a></li>
+    <li><a href="#6-code-review-guidelines">Code Review Guidelines</a></li>
+    <li><a href="#7-project-management-guidelines">Project Management Guidelines</a></li>
+    <li><a href="#8-codebase-guidelines--standards">Codebase Guidelines & Standards</a></li>
+    <li><a href="#9-virtual-meeting-guidelines">Virtual Meeting Guidelines</a></li>
+    <li><a href="#10-kpi-review-guidelines">KPI Review Guidelines</a></li>
+    <li><a href="#11-communication-gudelines">Communication Gudelines</a></li>
 </ol>
 
 
