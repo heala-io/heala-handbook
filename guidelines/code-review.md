@@ -4,18 +4,7 @@ The purpose of code review is to improve the quality of the codebase, ensure tha
 
 <hr>
 
-## Process
-
- - Peer review is required from at least one other team member before merging. The peer reviewer should be selected based on their expertise and experience in the relevant area of the codebase.
- - The software architect may also be required to review from time to time to ensure that the codebase is meeting agreed-upon standards and guidelines. The software architect should be added to each pull request (PR) as a reviewer.
- - All team members should review PRs in a timely manner, and provide constructive feedback and guidance to the author.
- - PRs should be kept open for a maximum of 2 days, after which they will be automatically closed if not merged.
- - The software architect is responsible for merging PRs to the dev or main branches and keeping track of rejected and accepted PRs.
- - If a PR is rejected, the author should address the issues raised and resubmit the PR for review.
-
-<hr>
-
-## Branch naming
+## Branch naming scheme
 
 We have three primary branch categories
 <ul>
@@ -26,16 +15,20 @@ We have three primary branch categories
 
 <hr>
 
-## Reviews and merge strategy
+## Process
 
-<ol>
-    <li>Create your local branch following the branch naming scheme</li>
-    <li>Make changes</li>
-    <li>Push changes</li>
-    <li>Request reviews and get at least one approval</li>
-    <li>Discuss on the PR and make changes if necessary</li>
-    <li>Merge to <strong>staging</strong> if you get at least one approval </li>
-</ol>
+ - Create your local branch following the branch naming scheme
+ - Make changes and create a PR to dev. 
+ - Request reviews and get at least one approval. Peer review is required from at least one other team member before merging. 
+ - The software architect may also be required to review from time to time to ensure that the codebase is meeting agreed-upon standards and guidelines. The software architect should be added to each pull request (PR) as a reviewer.
+ - All team members should review PRs in a timely manner, and provide constructive feedback and guidance to the author.
+ - Discuss on the PR and make changes if necessary
+ - Merge to <strong>dev</strong> if you get at least one approval
+ - PRs should be kept open for a maximum of 2 days, after which they will be automatically closed if not merged.
+ - The software architect is responsible for merging PRs to the dev or main branches and keeping track of rejected and accepted PRs.
+ - If a PR is rejected, the author should address the issues raised and resubmit the PR for review.
+
+<hr>
 
 ## Standards
 
