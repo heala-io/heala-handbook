@@ -7,7 +7,7 @@ The purpose of the daily scrum is to keep team members informed, aligned, and fo
 <hr>
 
 ## Format
-A bot will prompt users at 10:00 AM every weekday in the form of a chat questions. The questions will include:
+A bot will prompt users at 10:00 AM every weekday in the form of chat questions. The questions will include:
 
 > “What did you do since yesterday?”
 
