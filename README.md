@@ -3,7 +3,7 @@
 Welcome to the HEALA Tech team! As a member of this team, you will be responsible for contributing to the development and maintenance of our various technology products. In this handbook, you will find all the guidelines and standards that you need to follow as a member of this team including; 
 
 <ol>
-    <li><a href="#1-organizational-structure">Organisational Structure</a></li>
+    <li><a href="#1-organisational-structure">Organisational Structure</a></li>
     <li><a href="#2-scrum-guidelines">Scrum Guidelines</a></li>
     <li><a href="#3-sprint-review--planning-guidelines">Sprint Review & Planning Guidelines</a></li>
     <li><a href="#4-company-wide-general-meeting-guidelines">Company-wide General Meeting Guidelines</a></li>
