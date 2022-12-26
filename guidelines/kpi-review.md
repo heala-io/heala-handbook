@@ -1,6 +1,6 @@
 # KPI Review Guidelines
 
-The KPI Review is a monthly meeting held on the last Friday of every month to track the progress and performance of the company and its teams. The purpose of this meeting is to review the key performance indicators (KPIs) of each team and identify areas for improvement. The meeting is attended by the CTO and the team leads, as well as other members of leadership as needed.
+The KPI Review is a monthly meeting held on the last Friday of every month to track the progress and performance of the company and its teams. The purpose of this meeting is to review the key performance indicators (KPIs) of each team and identify areas for improvement. The meeting is attended by the CTO and the team leads, as well as other members of leadership as needed. [Link to KPIs](key%20performance%20indicators/kpi-list.md)
 
 <hr>
 
