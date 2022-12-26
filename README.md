@@ -1,4 +1,4 @@
-# HEALA Tech Team Employee Handbook
+# HEALA Tech Team Handbook
 
 ### Overview
 
