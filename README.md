@@ -18,8 +18,8 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
         <li><a href="#h---virtual-meeting-guidelines">Virtual Meeting Guidelines</a></li>
         <li><a href="#i---kpi-review-guidelines">KPI Review Guidelines</a></li>
         <li><a href="#j---communication-gudelines">Communication Gudelines</a></li>
-        <li><a href="#k---communication-gudelines">Team Lead Gudelines</a></li>
-        <li><a href="#l---communication-gudelines">Team Member Gudelines</a></li>
+        <li><a href="#k---team-leads-guidelines">Team Leads Guidelines</a></li>
+        <li><a href="#l---team-members-guidelines">Team Members Guidelines</a></li>
      </ul>
     <li><a href="#3-policies">Policies</a></li>
       <ul>
@@ -29,7 +29,7 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
           <li><a href="#d---remote-work-policy">Remote work policy</a></li>
           <li><a href="#e---time-off-and-leave-policy">Time off and leave policy</a></li>
           <li><a href="#f---performance-review-policy">Performance review policy</a></li>
-          <li><a href="g---code-of-conduct">Code of conduct</a></li>
+          <li><a href="#g---code-of-conduct">Code of conduct</a></li>
       </ul>
     <li><a href="#conclusion">Conclusion</a></li>
 </ol>
@@ -92,7 +92,11 @@ We follow the Scrum framework for our product development process. This includes
 
  - ### K - Team Leads Guidelines
 
+    The Team Lead Guidelines outline the expectations and responsibilities of team leads within the HEALA Tech team. These guidelines are intended to help team leads effectively manage and lead their teams, while also aligning with the overall goals and values of the company. 
+
  - ### L - Team Members Guidelines
+
+    As a member of the tech team, it is important to understand and follow the guidelines in place to ensure that the team is able to work efficiently and effectively. 
 
 <hr>
 
