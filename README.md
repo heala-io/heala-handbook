@@ -36,7 +36,7 @@ We hold regular company-wide meetings to share updates and information with the 
 
 ## 5. Team Meeting Guidelines
 
-In addition to company-wide meetings, we also hold regular team meetings to discuss specific projects and issues. As a team member, you are expected to attend these meetings and participate in the discussions.
+In addition to company-wide meetings, each team is expected to hold regular team meetings at least once a week to discuss specific projects and issues. As a team member, you are expected to attend these meetings and participate in the discussions.
 
 ## 6. Code Review Guidelines
 
