@@ -87,7 +87,7 @@ We follow the Scrum framework for our product development process. This includes
 
  - ### G - Codebase Guidelines & Standards
 
-    We have specific guidelines and standards for our codebase to ensure that it is maintainable and easy to understand. As a team member, you will be expected to follow these guidelines and standards when writing code. [Learn More](guidelines/codebase-standard)
+    We have specific guidelines and standards for our codebase to ensure that it is maintainable and easy to understand. As a team member, you will be expected to follow these guidelines and standards when writing code. [Learn More](guidelines/codebase-standard.md)
 
  - ### H - Virtual Meeting Guidelines
 
