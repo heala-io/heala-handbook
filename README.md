@@ -103,11 +103,11 @@ We follow the Scrum framework for our product development process. This includes
 
  - ### K - Team Leads Guidelines
 
-    The Team Lead Guidelines outline the expectations and responsibilities of team leads within the HEALA Tech team. These guidelines are intended to help team leads effectively manage and lead their teams, while also aligning with the overall goals and values of the company. 
+    The Team Lead Guidelines outline the expectations and responsibilities of team leads within the HEALA Tech team. These guidelines are intended to help team leads effectively manage and lead their teams, while also aligning with the overall goals and values of the company. [Learn More](guidelines/team-leads.md)
 
  - ### L - Team Members Guidelines
 
-    As a member of the tech team, it is important to understand and follow the guidelines in place to ensure that the team is able to work efficiently and effectively. 
+    As a member of the tech team, it is important to understand and follow the guidelines in place to ensure that the team is able to work efficiently and effectively. [Learn More](guidelines/team-members.md)
 
 <hr>
 
