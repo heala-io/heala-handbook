@@ -18,8 +18,9 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
         <li><a href="#h---virtual-meeting-guidelines">Virtual Meeting Guidelines</a></li>
         <li><a href="#i---kpi-review-guidelines">KPI Review Guidelines</a></li>
         <li><a href="#j---communication-gudelines">Communication Gudelines</a></li>
-        <li><a href="#k---team-leads-guidelines">Team Leads Guidelines</a></li>
-        <li><a href="#l---team-members-guidelines">Team Members Guidelines</a></li>
+        <li><a href="#k---team-lead-guidelines">Team Lead Guidelines</a></li>
+        <li><a href="#l---team-member-guidelines">Team Member Guidelines</a></li>
+        <li><a href="#m---team-onboarding-guidelines">Team Onboarding Guidelines</a></li>
      </ul>
     <li><a href="#3-policies">Policies</a></li>
       <ul>
@@ -101,13 +102,17 @@ We follow the Scrum framework for our product development process. This includes
 
     We use Slack to ensure effective and professional communication within the company. By following our communication guidelines, team members can effectively collaborate and stay informed about company updates and projects. [Learn More](guidelines/communication.md)
 
- - ### K - Team Leads Guidelines
+ - ### K - Team Lead Guidelines
 
     The Team Lead Guidelines outline the expectations and responsibilities of team leads within the HEALA Tech team. These guidelines are intended to help team leads effectively manage and lead their teams, while also aligning with the overall goals and values of the company. [Learn More](guidelines/team-leads.md)
 
- - ### L - Team Members Guidelines
+ - ### L - Team Member Guidelines
 
     As a member of the tech team, it is important to understand and follow the guidelines in place to ensure that the team is able to work efficiently and effectively. [Learn More](guidelines/team-members.md)
+    
+ - ### M - Team Onboarding Guidelines
+
+    As a member of the tech team, it is important to understand and follow the guidelines in place to ensure that the team is able to work efficiently and effectively. [Learn More](guidelines/team-onboarding.md)
 
 <hr>
 
