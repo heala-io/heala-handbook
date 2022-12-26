@@ -34,9 +34,7 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
     <li><a href="#conclusion">Conclusion</a></li>
 </ol>
 
-<hr>
-
-## Goals & Objectives
+### Goals & Objectives
 
 It is important for the goals and objectives of the Heala tech team to align with the overall goals and objectives of the company. These include:
 
