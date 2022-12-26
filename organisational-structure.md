@@ -9,12 +9,15 @@ The tech team at HEALA is organized into smaller teams focused on specific areas
     CTO (Chief Technology Officer)
     |
     |- Product Manager
+    |  |
     |  |- Product Designer
     |
     |- Software Architect
+    |  |
     |  |- DevOps Engineer
     |
     |- Developer Relations
+    |  |
     |  |- Technical Writer
     |
     |- Engineering Manager
@@ -38,6 +41,7 @@ The tech team at HEALA is organized into smaller teams focused on specific areas
        |- Technical Support
        |  |
        |  |- Technical Support Representatives
+       |
        |
        |- Interns
    
