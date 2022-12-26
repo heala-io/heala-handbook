@@ -3,7 +3,7 @@
 Welcome to the HEALA Tech team! As a member of this team, you will be responsible for contributing to the development and maintenance of our various technology products. In this handbook, you will find all the guidelines and standards that you need to follow as a member of this team including; 
 
 <ol>
-    <li><a href="#1-organizational-structure">Organizational Structure</a></li>
+    <li><a href="#1-organizational-structure">Organisational Structure</a></li>
     <li><a href="#2-scrum-guidelines">Scrum Guidelines</a></li>
     <li><a href="#3-sprint-review--planning-guidelines">Sprint Review & Planning Guidelines</a></li>
     <li><a href="#4-company-wide-general-meeting-guidelines">Company-wide General Meeting Guidelines</a></li>
@@ -19,7 +19,7 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
 
 <hr>
 
-## 1. Organizational Structure
+## 1. Organisational Structure
 
 HEALA is structured with a management team, technical leads, team leads and team members. The management team is responsible for making strategic decisions and setting the overall direction of the company. The technical leads are responsible for overseeing the development of each of our products and ensuring that they meet the required standards and guidelines. Team members are responsible for contributing to the development of our products and following the guidelines and standards set by the technical leads. <a href="https://github.com/heala-io/heala-handbook/blob/master/organisational-structure.md">LEAN MORE</a>
 
