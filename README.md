@@ -14,6 +14,7 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
     <li><a href="#9-virtual-meeting-guidelines">Virtual Meeting Guidelines</a></li>
     <li><a href="#10-kpi-review-guidelines">KPI Review Guidelines</a></li>
     <li><a href="#11-communication-gudelines">Communication Gudelines</a></li>
+    <li><a href="#12-other-policies">Other Policies</a></li>
 </ol>
 
 
@@ -61,6 +62,8 @@ We hold monthly KPI review meetings to track the progress of our projects and to
 ## 11. Communication Gudelines
 
 We use Slack to ensure effective and professional communication within the company. By following our communication guidelines, team members can effectively collaborate and stay informed about company updates and projects.
+
+## 12. Other Policies
 
 ## Conclusion
 
