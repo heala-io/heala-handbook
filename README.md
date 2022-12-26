@@ -65,6 +65,34 @@ We use Slack to ensure effective and professional communication within the compa
 
 ## 12. Other Policies
 
+   ### A. Data protection and privacy policy
+
+   This policy outlines how the company handles personal data and ensures that it is protected and used in accordance with relevant laws and regulations.
+
+   ### B. Information security policy: 
+    
+   This policy outlines the measures the company takes to protect its data and systems from unauthorized access or tampering.
+
+   ### C. Acceptable use policy: 
+
+   This policy outlines the acceptable use of company systems and networks, including guidelines for internet usage, email usage, and the use of company-owned devices.
+
+   ### D. Remote work policy: 
+
+   This policy outlines the guidelines and expectations for team members who are working remotely, including guidelines for communication, productivity, and use of company resources.
+
+   ### E. Time off and leave policy: 
+
+   This policy outlines the procedures for requesting and taking time off, including vacation time, sick leave, and other types of leave.
+
+   ### F. Performance review policy: 
+
+   This policy outlines the process for conducting performance reviews and setting performance goals for team members.
+
+   ### G. Code of conduct: 
+
+   This policy outlines the expectations for professional behavior and ethical conduct within the company.
+
 ## Conclusion
 
 We hope this employee handbook has provided you with a comprehensive overview of what it means to be a part of the HEALA Tech team. We are excited to have you on board and look forward to working with you to build innovative and high-quality products. Remember to always follow our guidelines and standards to ensure smooth and effective collaboration within the team. If you have any questions or concerns, don't hesitate to reach out to your team lead or the engineering manager. Welcome to HEALA Tech!
