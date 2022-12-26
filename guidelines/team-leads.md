@@ -1,4 +1,4 @@
-# Team Lead Guidelines
+# Team Leads Guidelines
 
 The purpose of a team lead is to guide and support the team, ensure that projects are delivered on time and to the required quality standards, and represent the team in meetings and discussions with other teams and stakeholders.
 
