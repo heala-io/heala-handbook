@@ -36,7 +36,7 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
 
 ## 1. Organisational Structure
 
-HEALA is structured with a management team, technical leads, team leads and team members. The management team is responsible for making strategic decisions and setting the overall direction of the company. The technical leads are responsible for overseeing the development of each of our products and ensuring that they meet the required standards and guidelines. Team members are responsible for contributing to the development of our products and following the guidelines and standards set by the technical leads. [LEAN MORE](organisational-structure/organisational-structure.md)
+HEALA is structured with a management team, technical leads, team leads and team members. The management team is responsible for making strategic decisions and setting the overall direction of the company. The technical leads are responsible for overseeing the development of each of our products and ensuring that they meet the required standards and guidelines. Team members are responsible for contributing to the development of our products and following the guidelines and standards set by the technical leads. [LEAN MORE](Organisational%20Structure/organisational-structure.md)
 
 <hr>
 
