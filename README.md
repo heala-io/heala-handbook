@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to the HEALA Tech team! As a member of this team, you will be responsible for contributing to the development and maintenance of our various technology products. In this handbook, you will find all the polices guidelines & standards you need to follow as a member of this team including; 
+Welcome to the HEALA Tech team! As a member of this team, you will be responsible for contributing to the development and maintenance of our various technology products. In this handbook, you will find all the polices, guidelines & standards you need to follow as a member of this team including; 
 
 <ol>
     <li><a href="#1-organisational-structure">Organisational Structure</a></li>
