@@ -18,6 +18,8 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
         <li><a href="#h---virtual-meeting-guidelines">Virtual Meeting Guidelines</a></li>
         <li><a href="#i---kpi-review-guidelines">KPI Review Guidelines</a></li>
         <li><a href="#j---communication-gudelines">Communication Gudelines</a></li>
+        <li><a href="#k---communication-gudelines">Team Lead Gudelines</a></li>
+        <li><a href="#l---communication-gudelines">Team Member Gudelines</a></li>
      </ul>
     <li><a href="#3-policies">Policies</a></li>
       <ul>
@@ -87,6 +89,10 @@ We follow the Scrum framework for our product development process. This includes
  - ### J - Communication Gudelines
 
     We use Slack to ensure effective and professional communication within the company. By following our communication guidelines, team members can effectively collaborate and stay informed about company updates and projects. [Learn More](guidelines/communication.md)
+
+ - ### K - Team Leads Guidelines
+
+ - ### L - Team Members Guidelines
 
 <hr>
 
