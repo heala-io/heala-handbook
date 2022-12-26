@@ -49,7 +49,7 @@ We follow the Scrum framework for our product development process. This includes
 
  - ### A - Scrum Guidelines: 
     
-    We follow the Scrum framework for our project management. This means that we have a daily stand-up meeting to discuss progress and any blockers that team members may be facing. We also have a weekly sprint review and planning meeting, where we review the work that has been completed in the previous sprint and plan out the tasks for the upcoming sprint. [LEARN MORE] (guideline/scrum-guidelines.md)
+    We follow the Scrum framework for our project management. This means that we have a daily stand-up meeting to discuss progress and any blockers that team members may be facing. We also have a weekly sprint review and planning meeting, where we review the work that has been completed in the previous sprint and plan out the tasks for the upcoming sprint. [LEARN MORE] (guidelines/scrum-guidelines.md)
 
  - ### B - Sprint Review & Planning Guidelines
 
