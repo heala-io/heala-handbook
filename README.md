@@ -38,7 +38,7 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
 
 ## Goals & Objectives
 
-It is important for the goals and objectives of the Heala tech team to align with the overall goals and objectives of the company. These may include:
+It is important for the goals and objectives of the Heala tech team to align with the overall goals and objectives of the company. These include:
 
  - Developing and maintaining high-quality products that meet the needs of the company's users
  - Ensuring that the company's technology infrastructure is secure, scalable, and reliable
