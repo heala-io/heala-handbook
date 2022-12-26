@@ -36,6 +36,19 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
 
 <hr>
 
+## Goals & Objectives
+
+It is important for the goals and objectives of the Heala tech team to align with the overall goals and objectives of the company. These may include:
+
+ - Developing and maintaining high-quality products that meet the needs of the company's users
+ - Ensuring that the company's technology infrastructure is secure, scalable, and reliable
+ - Continuously improving the efficiency and effectiveness of the tech team's processes and systems
+ - Foster a culture of collaboration and innovation within the tech team
+ - Ensure that all team members have the necessary resources and support to succeed in their roles
+ - Contribute to the company's financial growth and success through the development of new products and features.
+
+<hr>
+
 ## 1. Organisational Structure
 
 HEALA is structured with a management team, technical leads, team leads and team members. The management team is responsible for making strategic decisions and setting the overall direction of the company. The technical leads are responsible for overseeing the development of each of our products and ensuring that they meet the required standards and guidelines. Team members are responsible for contributing to the development of our products and following the guidelines and standards set by the technical leads. [Learn More](organisational%20structure/organisational-structure.md)
