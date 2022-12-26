@@ -1,6 +1,6 @@
 # HEALA Tech Team Organizational Structure 
 
-The tech team at HEALA is organized into smaller teams focused on specific areas of technology or product development, including frontend, mobile, backend & quality assurance. These teams are led by team leads and are responsible for the development and maintenance of the company's web, mobile, and backend applications and infrastructure. Cross-functional roles including the Product Manager, Software Architect, Developer Relations, and Engineering Manager report directly to the CTO and are part of the CTO's technical leadership team, responsible for driving the technical strategy and direction of the company and working closely with the development teams to ensure the company's products are high quality and meet user needs.
+The tech team at HEALA is organized into smaller teams focused on specific areas of technology or product development, including frontend, mobile, backend & quality assurance. These teams are led by team leads and are responsible for the development and maintenance of the company's web, mobile, and backend applications and infrastructure. Cross-functional roles including the Product Manager, Software Architect, Developer Relations, and Engineering Manager report directly to the CTO and are part of the CTO's leadership team, responsible for driving the technical strategy and direction of the company and working closely with the development teams to ensure the company's products are high quality and meet user needs.
 
 <hr>
 
