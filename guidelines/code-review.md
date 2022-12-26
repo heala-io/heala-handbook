@@ -15,6 +15,28 @@ The purpose of code review is to improve the quality of the codebase, ensure tha
 
 <hr>
 
+## Branch naming
+
+We have three primary branch categories
+<ul>
+    <li><strong>feature</strong>: For new features. Sample: <i>feature/hmo-plans</i> </li>
+    <li><strong>updates</strong>: For updates on an existing feature. Sample: <i>update/doctor-data</i></li>
+    <li><strong>fix</strong>: For bug fixes to an existing feature. Sample: <i>fix/consultation-time</i></li>
+</ul>
+
+<hr>
+
+## Reviews and merge strategy
+
+<ol>
+    <li>Create your local branch following the branch naming scheme</li>
+    <li>Make changes</li>
+    <li>Push changes</li>
+    <li>Request reviews and get at least one approval</li>
+    <li>Discuss on the PR and make changes if necessary</li>
+    <li>Merge to <strong>staging</strong> if you get at least one approval </li>
+</ol>
+
 ## Standards
 
  - Code should be well-documented, easy to read, and maintainable.
