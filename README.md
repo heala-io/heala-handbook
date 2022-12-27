@@ -21,6 +21,7 @@ Welcome to the HEALA Tech team! As a member of this team, you will be responsibl
         <li><a href="#k---team-lead-guidelines">Team Lead Guidelines</a></li>
         <li><a href="#l---team-member-guidelines">Team Member Guidelines</a></li>
         <li><a href="#m---team-onboarding-guidelines">Team Onboarding Guidelines</a></li>
+        <li><a href="#n---team-offboarding-guidelines">Team Offboarding Guidelines</a></li>
      </ul>
     <li><a href="#3-policies">Policies</a></li>
       <ul>
@@ -113,6 +114,10 @@ We follow the Scrum framework for our product development process. This includes
  - ### M - Team Onboarding Guidelines
 
     As a member of the tech team, it is important to understand and follow the guidelines in place to ensure that the team is able to work efficiently and effectively. [Learn More](guidelines/team-onboarding.md)
+
+ - ### N - Team Offboarding Guidelines
+ 
+    The offboarding process is designed to ensure a smooth and seamless transition when an employee leaves the company. The guidelines outline the tasks that need to be completed in order to properly offboard a team member. [Learn More](guidelines/team-offboarding.md)
 
 <hr>
 
