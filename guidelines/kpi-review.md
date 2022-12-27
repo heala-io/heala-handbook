@@ -18,7 +18,7 @@ The agenda for the KPI Review meeting includes:
 <hr>
 
 ## Duration
-The KPI Review meeting should last no longer than 2 hours.
+ - The KPI Review meeting should last no longer than 2 hours.
 
 <hr>
 
