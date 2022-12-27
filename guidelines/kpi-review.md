@@ -23,7 +23,7 @@ The KPI Review meeting should last no longer than 2 hours.
 <hr>
 
 ## Attendance
-Attendance at the KPI Review meeting is compulsory for all team leads and optional for other team members.
+ - Attendance at the KPI Review meeting is compulsory for all team leads and optional for other team members.
 
 <hr>
 
@@ -37,9 +37,9 @@ Attendance at the KPI Review meeting is compulsory for all team leads and option
 <hr>
 
 ## Follow-up
-After the KPI Review meeting, the CTO and team leads will follow up on any action items or next steps identified during the meeting. This may include updating Trello boards, tracking progress, or setting up additional meetings or check-ins as needed.
+ - After the KPI Review meeting, the CTO and team leads will follow up on any action items or next steps identified during the meeting. This may include updating Trello boards, tracking progress, or setting up additional meetings or check-ins as needed.
 
 <hr>
 
 ## Documentation
-The CTO will document the key points and action items from the KPI Review meeting and distribute them to the team leads and relevant team members. This documentation will be stored in a shared folder for reference and follow-up.
+ - The CTO will document the key points and action items from the KPI Review meeting and distribute them to the team leads and relevant team members. This documentation will be stored in a shared folder for reference and follow-up.
