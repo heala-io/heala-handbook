@@ -14,7 +14,7 @@ Our objective for Q1 is to optimize the performance and increase adoption of the
 
 The SMART criteria was chosen as the preferred methodology for setting and achieving the KPIs outlined in this document. The acronym stands for Specific, Measurable, Attainable, Relevant, and Time-bound, and it provides a framework for defining and evaluating goals to ensure they are clear, achievable, and aligned with overall OKRs of HEALA as shown below.
 
- - *Specific*: Reduce average API response time to 1 second or less, increase average successful transaction rate to 80%, increase average project completion rate to 90% and build a minimum of 10 integration options.
+ - *Specific*: Reduce average API response time to 2 second or less, increase average successful transaction rate to 70%, increase average project completion rate to 70% and build a minimum of 7 integration options.
 
  - *Measurable*: Track and measure average API response time, transaction success rate, project completion rate etc. on a monthly basis.
 
@@ -27,110 +27,110 @@ The SMART criteria was chosen as the preferred methodology for setting and achie
 ## Key Results and Targets
 
  - ### Tech Team
-   - 1 second average response time for API calls.
-   - 10 new sample integrations (SDKs, widgets/plugin, libraries/packages).
-   - 80% average successful transaction rate (consultation & payments).
-   - 90% average technical projects completed.
-   - 90% average technical issues resolved within agreed-upon timeframe.
-   - 80% average quality assurance pass rate.
-   - 10 technical partnerships established (adopters, open source collaborators, sponsors).
+   - 2 second average response time for API calls.
+   - 7 new sample integrations (SDKs, widgets/plugin, libraries/packages).
+   - 70% average successful transaction rate (consultation & payments).
+   - 70% average technical projects completed.
+   - 70% average technical issues resolved within agreed-upon timeframe.
+   - 70% average quality assurance pass rate.
+   - 7 technical partnerships established (adopters, open source collaborators, sponsors).
 
  - ### Product Manager
-   - 7/10 Average Net Promoter Score.
+   - 6/10 Average Net Promoter Score.
    - 30% active users using product (B2C).
-   - 80% API calls for consultations (B2B).
+   - 70% API calls for consultations (B2B).
    - 80% daily stand-ups & sprint reviews attended.
 
  - ### Software Architect
-   - 1 second average response response time for API calls.
-   - 24hrs Average time to resolve API technical issues. 
+   - 2 second average response response time for API calls.
+   - 36hrs Average time to resolve API technical issues. 
 
  - ### Developer Relations
 
    - 2 developer community channels created
    - 10 open source collaborations established
    - 1 developer event or meetup organised
-   - 80% of fully onboarded partners building with company’s products or services
-   - 4/5 average customer satisfaction with developer support
+   - 50% of fully onboarded partners building with company’s products or services
+   - 3.5/5 average customer satisfaction with developer support
 
  - ### Frontend Team
 
-   - 80% overall average technical projects completed.
-   - 24hrs overall average time to resolve technical issues.
-   - 80% overall technical issues resolved within agreed-upon timeframe.
-   - 80% overall average quality assurance pass rate.
-   - 90% overall average of frontend code meeting agreed-upon quality standards.
+   - 70% overall average technical projects completed.
+   - 36hrs overall average time to resolve technical issues.
+   - 70% overall technical issues resolved within agreed-upon timeframe.
+   - 70% overall average quality assurance pass rate.
+   - 70% overall average of frontend code meeting agreed-upon quality standards.
    - 80% overall percentage of daily stand-ups & sprint reviews attended.
-   - 7/10 average product team acceptance score.
+   - 6/10 average product team acceptance score.
 
  - ### Frontend Engineers
 
-   - 80% average of technical projects completed.
+   - 70% average of technical projects completed.
    - 24hrs average time to resolve technical issues.
-   - 80% average quality assurance pass rate.
-   - 90% of frontend code meeting agreed-upon quality standards.
+   - 70% average quality assurance pass rate.
+   - 70% of frontend code meeting agreed-upon quality standards.
    - 80% of daily stand-ups & sprint reviews attended. 
 
  - ### Mobile Team
 
-   - 80% overall average technical projects completed.
-   - 24hrs overall average time to resolve technical issues.
-   - 80% overall technical issues resolved within agreed-upon timeframe.
-   - 80% overall average quality assurance pass rate (test cases).
-   - 90% overall average of mobile code meeting agreed-upon quality standards.
+   - 70% overall average technical projects completed.
+   - 36hrs overall average time to resolve technical issues.
+   - 70% overall technical issues resolved within agreed-upon timeframe.
+   - 70% overall average quality assurance pass rate (test cases).
+   - 70% overall average of mobile code meeting agreed-upon quality standards.
    - 80% overall percentage of daily stand-ups & sprint reviews attended.
-   - 7/10 average product acceptance score.
+   - 6/10 average product acceptance score.
 
 
  - ### Mobile Engineers
 
-   - 80% average of technical projects completed.
-   - 24hrs average time to resolve technical issues.
-   - 80% average quality assurance pass rate.
-   - 90% of mobile code meeting agreed-upon quality standards.
+   - 70% average of technical projects completed.
+   - 36hrs average time to resolve technical issues.
+   - 70% average quality assurance pass rate.
+   - 70% of mobile code meeting agreed-upon quality standards.
    - 80% of daily stand-ups & sprint reviews attended. 
 
  - ### Backend Team
 
-   - 80% overall average technical projects completed.
-   - 24hrs overall average time to resolve technical issues.
-   - 80% overall technical issues resolved within agreed-upon timeframe.
-   - 80% overall average quality assurance pass rate (test cases).
-   - 90% overall average of mobile code meeting agreed-upon quality standards.
+   - 70% overall average technical projects completed.
+   - 36hrs overall average time to resolve technical issues.
+   - 70% overall technical issues resolved within agreed-upon timeframe.
+   - 70% overall average quality assurance pass rate (test cases).
+   - 70% overall average of mobile code meeting agreed-upon quality standards.
    - 80% overall percentage of daily stand-ups & sprint reviews attended.
-   - 7/10 average product acceptance score.
+   - 6/10 average product acceptance score.
 
  - ### Backend Engineers
 
-   - 80% average of technical projects completed.
-   - 24hrs average time to resolve technical issues.
-   - 80% average quality assurance pass rate.
-   - 90% of backend code meeting agreed-upon quality standards.
+   - 70% average of technical projects completed.
+   - 36hrs average time to resolve technical issues.
+   - 70% average quality assurance pass rate.
+   - 70% of backend code meeting agreed-upon quality standards.
    - 80% of daily stand-ups & sprint reviews attended. 
 
  - ### Quality Assurance Engineer
 
-   - 90% of reported problems or defects resolved.
-   - 24hrs average time to resolve technical issues.
-   - 7/10 average product acceptance score.
+   - 70% of reported problems or defects resolved.
+   - 36hrs average time to resolve technical issues.
+   - 6/10 average product acceptance score.
    - 80% of daily stand-ups & sprint reviews attended.
 
  - ### Technical Support
 
-   - 80% of customer inquiries and requests for assistance resolved 
+   - 70% of customer inquiries and requests for assistance resolved 
    - 36hrs average time to resolve technical issues
-   - 4/5 average customer satisfaction rating with technical support
+   - 3.5/5 average customer satisfaction rating with technical support
 
  - ### Technical Writer
 
-   - 10 technical documentation and knowledgebase resources created or updated.
+   - 5 technical documentation and knowledgebase resources created or updated.
    - 3.5/5 average customer satisfaction rating with technical documentation and knowledgebase resources.
 
 - ### Interns
 
-   - 80% completion of tasks given.
-   - 60% overall percentage of daily stand-ups & sprint reviews attended.
-   - 80% overall performance and progress during internship (By team leads).
+   - 50% completion of tasks given.
+   - 50% overall percentage of daily stand-ups & sprint reviews attended.
+   - 50% overall performance and progress during internship (By team leads).
 
 <hr>
 
