@@ -1,18 +1,22 @@
 # Key performance indicators (KPIs)
 
-KPIs are metrics that are used to measure the success or effectiveness of an individual or team in achieving specific goals or objectives. The specific KPIs that are most relevant for each role will depend on the nature of the role and the goals and objectives. Agreed KPIs for each team member is highlighted below;
+The tech team at HEALA has identified key performance indicators (KPIs) to help drive efficiency, reliability, and adoption of our healthcare tech offerings. These metrics will be used to measure the success and effectiveness of each team member and the entire tech team in achieving our set goals and objectives. The KPIs will be set at the beginning of each quarter and [reviewed monthly](../guidelines/kpi-review.md) to track and measure progress. The agreed KPIs for Q1 of 2023 are outlined below.
 
 <hr>
 
-## Objective
+## Q1 Objective
 
-Objective: Increase technical efficiency, reliability and adoption of HEALA's Healthcare tech offerings by optimizing API response time, transaction success rate, and project completion rate while also expanding our technical partnerships and integrations in order to contribute to the company's overall goal of hitting at least 25,000 transactions in Q1, with 20,000 coming from the API route and 5,000 coming from the App route. This objective will be achieved using the SMART criteria as outlined below with an aim to achieve a KPI attainment rate of 10% by January, 50% by February, and 100% by March.
+Our objective for Q1 is to optimize the VHP solution for the API and App routes, with a focus on improving technical efficiency, reliability, and adoption. To achieve this, we will work to improve API response time, transaction success rate, and project completion rate. We will also seek to expand our technical partnerships and integrations to help contribute to the company's goal of generating at least 25,000 transactions in Q1, with 20,000 coming from the API route and 5,000 coming from the App route. We will use the SMART criteria to guide our efforts and aim to achieve a KPI attainment rate of 10% in January, 50% in February, and 100% in March.
 
-### SMART Criteria
+<hr>
+
+## Methodology
+
+The SMART criteria was chosen as the preferred methodology for setting and achieving the KPIs outlined in this document. The acronym stands for Specific, Measurable, Attainable, Relevant, and Time-bound, and it provides a framework for defining and evaluating goals to ensure they are clear, achievable, and aligned with overall OKRs of HEALA as shown below.
 
  - *Specific*: Reduce average API response time to 1 second or less, increase average successful transaction rate to 80%, and increase average project completion rate to 90%.
 
- - *Measurable*: Track and measure average API response time, transaction success rate, and project completion rate on a monthly basis.
+ - *Measurable*: Track and measure average API response time, transaction success rate, project completion rate etc. on a monthly basis.
 
  - *Achievable*: The team has the skills and resources necessary to achieve these improvements through code optimization, performance testing, and process improvements.
 
@@ -39,7 +43,7 @@ Objective: Increase technical efficiency, reliability and adoption of HEALA's He
    - 80% daily stand-ups & sprint reviews attended.
 
  - ### Software Architect
-   - 1 second vverage response response time for API calls.
+   - 1 second average response response time for API calls.
    - 24hrs Average time to resolve API technical issues. 
 
  - ### Developer Relations
@@ -128,6 +132,20 @@ Objective: Increase technical efficiency, reliability and adoption of HEALA's He
    - 80% completion of tasks given.
    - 60% overall percentage of daily stand-ups & sprint reviews attended.
    - 80% overall performance and progress during internship (By team leads).
+
+<hr>
+
+## Performance Tracking
+
+To track and measure progress on the tech team's KPIs, the following tools and methods will be used including data on response times, transaction success rates, project completion rates, technical issue resolution rates, quality assurance pass rates, and the number of technical partnerships established. 
+
+ - **Average response time for API calls:** The tech team will use a monitoring tool such as *Postman* to track the average response time of API calls over time. This data can be collected and tracked on a monthly basis to measure progress towards the 1 second goal.
+ - **New sample integrations:** The tech team will track the number of new integrations that have been added to the codebase over time. This data will be tracked manually by the team using *GitHub*.
+ - **Successful transaction rate:** The tech team will track the percentage of successful transactions by analyzing data from the payment gateway and other relevant systems. This data will be tracked on a monthly basis and used to measure progress towards the 80% goal.
+ - **Technical projects completed:** The tech team will track the percentage of technical projects that have been completed by analyzing data from each of the individual tech team's board on Trello. This data will be tracked on a monthly basis to measure progress towards the 90% goal.
+ - **Technical issues resolved:** The tech team will also track the percentage of technical issues that have been resolved within the agreed-upon timeframe by analyzing data from the QA board on Trello. This data will be tracked on a monthly basis to measure progress towards the 90% goal.
+ - **Quality assurance pass rate:** The tech team will track the percentage of code that passes quality assurance testing by analyzing data from the QA Test Cases sheet on *Excel* or a testing tool like *Jenkins* or *CircleCI*. This data will be tracked on a monthly basis to measure progress towards the 80% goal.
+ - **Technical partnerships:** The tech team will track the number of technical partnerships that have been established by analyzing data from the partnership team, emails, trello, or other relevant systems. This data will be tracked manually by the team or automated using a tool like *Zapier* or *Integromat*.
 
 <hr>
 
