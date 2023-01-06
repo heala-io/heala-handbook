@@ -1,4 +1,4 @@
-# Team Meetings Guideline
+# Team Meetings Guidelines
 
 Team meetings are an important forum for discussing progress on projects, raising issues or concerns, and setting goals for the upcoming week. It is important for all team members to attend these meetings regularly to stay informed and aligned with team goals.
 
