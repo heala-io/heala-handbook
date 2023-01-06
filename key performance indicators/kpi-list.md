@@ -6,7 +6,7 @@ The tech team at HEALA has identified key performance indicators (KPIs) to help 
 
 ## Q1 Objective
 
-Our objective for Q1 is to optimize the VHP solution for the API and App routes, with a focus on improving technical efficiency, reliability, and adoption. To achieve this, we will work to improve API response time, transaction success rate, and project completion rate. We will also seek to expand our technical partnerships and integrations to help contribute to the company's goal of generating at least 25,000 transactions in Q1, with 20,000 coming from the API route and 5,000 coming from the App route. We will use the SMART criteria to guide our efforts and aim to achieve a KPI attainment rate of 10% in January, 50% in February, and 100% in March.
+Our objective for Q1 is to optimize the performance and increase adoption of the VHP solution for both the API and App routes with a focus on improving technical efficiency and reliability. To achieve this, we will work to enhance API response time, transaction success rate, and project completion rate, as well as build integration options and establishing technical partnerships and collaborations. By doing so, we aim to contribute to the company's goal of achieving at least 25,000 transactions in Q1, with 20,000 coming from the API route and 5,000 from the App route. We will use the SMART criteria to guide our efforts and aim to achieve a KPI attainment rate of 10% in January, 50% in February, and 100% in March.
 
 <hr>
 
@@ -14,7 +14,7 @@ Our objective for Q1 is to optimize the VHP solution for the API and App routes,
 
 The SMART criteria was chosen as the preferred methodology for setting and achieving the KPIs outlined in this document. The acronym stands for Specific, Measurable, Attainable, Relevant, and Time-bound, and it provides a framework for defining and evaluating goals to ensure they are clear, achievable, and aligned with overall OKRs of HEALA as shown below.
 
- - *Specific*: Reduce average API response time to 1 second or less, increase average successful transaction rate to 80%, and increase average project completion rate to 90%.
+ - *Specific*: Reduce average API response time to 1 second or less, increase average successful transaction rate to 80%, increase average project completion rate to 90% and build a minimum of 10 integration options.
 
  - *Measurable*: Track and measure average API response time, transaction success rate, project completion rate etc. on a monthly basis.
 
