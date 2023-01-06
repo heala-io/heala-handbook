@@ -6,7 +6,7 @@ The tech team at HEALA has identified key performance indicators (KPIs) to help 
 
 ## Q1 Objective
 
-Our objective for Q1 is to optimize the performance and increase adoption of the VHP solution for both the API and App routes with a focus on improving technical efficiency and reliability. To achieve this, we will work to enhance API response time, transaction success rate, and project completion rate, as well as build integration options and establishing technical partnerships and collaborations. By doing so, we aim to contribute to the company's goal of achieving at least 25,000 transactions in Q1, with 20,000 coming from the API route and 5,000 from the App route. We will use the SMART criteria to guide our efforts and aim to achieve a KPI attainment rate of 10% in January, 50% in February, and 100% in March.
+Our objective for Q1 is to optimize the performance and increase adoption of the VHP solution for both the API and App routes. To achieve this, we will work to enhance API response time, transaction success rate, and project completion rate, as well as build integration options and establishing technical partnerships and collaborations. By doing so, we aim to contribute to the company's goal of achieving at least 25,000 transactions in Q1, with 20,000 coming from the API route and 5,000 from the App route. We will use the SMART criteria to guide our efforts and aim to achieve a KPI attainment rate of 10% in January, 50% in February, and 100% in March.
 
 <hr>
 
