@@ -10,7 +10,7 @@ When an employee leaves the company, it is important to ensure that their depart
 
 <li><strong>Inform the team lead:</strong> The team lead is responsible for ensuring that the employee's work is properly handed off to their colleagues and that their departure does not disrupt the team's workflow.</li>
     
-<li><strong>Remove the employee from any relevant systems:</strong> The Team lead is responsible for removing the employee from any relevant systems, including the code repository, Trello, Slack, and any other company systems.</li>
+<li><strong>Remove the employee from any relevant systems:</strong> The Team lead is responsible for removing the employee from any relevant systems, including the code repository, Trello, Slack, Email and any other company systems.</li>
     
 <li><strong>Inform other team members:</strong> The team lead should inform the rest of the team about the departing employee's departure and discuss any necessary changes to the team's workflow and assign any outstanding tasks to other team members.</li>
 
