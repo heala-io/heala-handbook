@@ -18,8 +18,8 @@ The sprint review and planning meeting is an opportunity for team members to sha
  - Team members are encouraged to participate in the discussion and to share their insights and ideas.
 
 ## Agenda
- - Introductions (10 minutes)
- - Product Update (5 minutes)
+ - Introductions (5 minutes)
+ - Product Update (10 minutes)
  - QA/Support Update (10 minutes)
  - Dev team presentations (10 minutes per team)
  - Questions and comments (5 minutes)
