@@ -141,7 +141,7 @@ We follow the Scrum framework for our product development process. This includes
 
  - ### E - Time off and leave policy
 
-    This policy outlines the procedures for requesting and taking time off, including vacation time, sick leave, and other types of leave.
+    This policy outlines the procedures for requesting and taking time off, including vacation time, sick leave, and other types of leave. [Learn More](policies/time-off-and-leave-policy.md)
 
  - ### F - Performance review policy
 
