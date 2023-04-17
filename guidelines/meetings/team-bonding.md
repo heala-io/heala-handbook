@@ -1,4 +1,4 @@
-# Sprint Review and Planning Meeting Guideline
+# Team bonding Meeting Guideline
 
 The Team bonding meeting is an opportunity for team members to get bond with games and known themselves better. This is an avenue to foster better relationship and find better ways to collaborate with each other.
 
