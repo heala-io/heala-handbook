@@ -5,7 +5,7 @@ The company-wide general meeting is a regular event that is open to all employee
 <hr>
 
 ## Format
- - The meeting will occur at 10:00 AM every Monday, excluding holidays, immediately after the tech team’s sprint and planning meeting.
+ - The General meeting will occur at 10:00 AM on a Monday once every two weeks, excluding holidays, immediately after the tech team’s sprint and planning meeting.
  - Each team of the company will present their progress in the previous week and plan for the upcoming week.
  - The developer relations of the tech team will be tasked with giving the presentation from the tech team to the general company. This task will also be rotated with other team leads at the discretion of the developer relations. In the case that a team lead presents, the developer relations will have to inform them prior and put them through on the update.
  - The update will summarize that of the tech team’s progress as outlined during the sprint and planning meeting.
