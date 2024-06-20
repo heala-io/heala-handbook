@@ -1,4 +1,4 @@
-# HEALA Tech Operating Procedures
+# Engineering Team Operating Procedures
 
 # Overview
 
